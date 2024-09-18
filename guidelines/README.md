@@ -1,3 +1,3 @@
 # Guidelines
 
-This folder contains guidelines for contributors on the following topics:
+This folder contains guidelines for contributors.
