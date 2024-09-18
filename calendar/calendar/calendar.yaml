@@ -1,0 +1,56 @@
+# This file controls the meetings on the "OpenCSG Community Calendar":
+
+# ==================================================================================================
+# Each list element is a map with the following keys:
+#   id:          a unique id for the meeting (TIP: increment the last id by 1)
+#   name:        name of the meeting
+#   date:        date of the first meeting "MM/dd/YYYY"
+#   time:        start and end time of the meeting "hour:minuteAM/PM-hour:minuteAM/PM"
+#   timezone:    timezone in IANA Time Zone Database format (default: 'America/Los_Angeles')
+#   frequency:   how often the meeting takes place (optional)
+#   until:       last date to repeat until "MM/dd/YYYY" (optional)
+#   attendees:   list of attendees
+#   video:       a feishu meeting link
+#   description: the description of the meeting
+#   organizer:   the github username of the meeting organizer
+# ==================================================================================================
+
+# !!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!
+# DO NOT REMOVE recurring meetings, set their `until` date in the past, and move them under "legacy meetings".
+# Otherwise, the meeting will remain in the calendar forever.
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+####################################################################################################
+# Current meetings
+####################################################################################################
+- id: csg001
+  name: OpenCSG Community Call (US + EMEA)
+  date: 08/18/2020
+  time: 8:00AM-8:55AM
+  frequency: weekly
+  video: TBD
+  attendees:
+    - email: OpenCSG-discuss@opencsg.com
+  description:
+    - |
+      Notes & agenda: ...
+      Join at: ...
+      Meeting Host Link: ...
+  organizer: Eric Yu
+
+- id: csg002
+  name: CSGHub Community Meeting (PST AM)
+  date: 08/19/2020
+  time: 10:00am-10:40am
+  frequency: bi-weekly
+  video: TBD
+  attendees:
+    - email: OpenCSG-discuss@opencsg.com
+    - email: OpenCSG-pipelines@opencsg.com
+  description:
+    - |
+      Notes & Agenda: ...
+      Join at: ...
+  organizer: Da Lei
+
+
