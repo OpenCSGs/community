@@ -1,4 +1,4 @@
-# AutoML Working Group
+# Working Group
 
 
 
