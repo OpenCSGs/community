@@ -1,8 +1,6 @@
 Contributing to CSGHub
 =======================
 
-[中文版本](/CONTRIBUTING.md)
-
 Welcome to CSGHub and thank you for your interest in contributing to this project!
 
 CSGHub is an open-source and trusted asset management platform for large models. It aims to assist users in governing assets, such as datasets, model files, and code, throughout the lifecycle of LLM (Large Language Models) and LLM applications. CSGHub provides functionality similar to a private version of Huggingface and manages LLM assets in a way that is similar to OpenStack Glance for managing virtual machine images, Harbor for managing container images, and Sonatype Nexus for managing artifacts.
