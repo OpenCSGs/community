@@ -1,5 +1,7 @@
-# Guidelines
+# Guidelines  
 
-This folder contains guidelines for contributors:
-1. [OpenCSG contribution guideline](./guidelines/CONTRIBUTING_en.md).
-2. [OpenCSG developer guideline](./guidelines/dev_guide.md).
+This folder includes essential guidelines for contributors:  
+
+1. [OpenCSG contributing guide](./CONTRIBUTING_en.md)  
+
+2. [OpenCSG development guide](https://github.com/OpenCSGs/csghub/blob/main/docs/setup_en.md)  
