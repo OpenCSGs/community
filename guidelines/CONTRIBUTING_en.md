@@ -30,7 +30,7 @@ When creating an issue:
 
 - Be specific about the issue - "XY doesn't work" isn't helpful.  
 - Include minimal code example that demonstrates the issue.  
-- For large code blocks or logs, use `<details>`and `</details>` tags to keep issues readable. Learn more about content collapsing [here](https://developer.mozilla.org/en/docs/Web/HTML/Element/details).  
+- For large code blocks or logs, use `<details>` and `</details>` tags to keep issues readable. Learn more about content collapsing [here](https://developer.mozilla.org/en/docs/Web/HTML/Element/details).  
 
 ## Issue Labels
 
