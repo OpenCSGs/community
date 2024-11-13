@@ -49,7 +49,7 @@ The StarShip Workgroup is the driving force behind the continuous evolution and 
 
 1. Review and discuss recent updates to the platform
 2. Discuss upcoming features and enhancements
-3. Plan next steps for the working group
+3. Plan next steps for the workgroup
 
 ## Communication Channels
 
