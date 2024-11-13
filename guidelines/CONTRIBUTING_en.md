@@ -1,48 +1,43 @@
-Contributing to CSGHub
-=======================
+# Contributing to CSGHub
 
-Welcome to CSGHub and thank you for your interest in contributing to this project!
+Welcome to CSGHub and thank you for your interest in contributing to this project!  
 
-CSGHub is an open-source and trusted asset management platform for large models. It aims to assist users in governing assets, such as datasets, model files, and code, throughout the lifecycle of LLM (Large Language Models) and LLM applications. CSGHub provides functionality similar to a private version of Huggingface and manages LLM assets in a way that is similar to OpenStack Glance for managing virtual machine images, Harbor for managing container images, and Sonatype Nexus for managing artifacts.
+CSGHub is an open-source and trusted asset management platform for large language models (LLMs). It aims to assist users in governing assets (datasets, model files, code and etc.) involved in the lifecycle of LLMs. CSGHub provides functionality similar to a private version of Hugging Face, with asset management capabilities comparable to GitLab for source code, OpenStack Glance for virtual machine images, Harbor for container images, and Sonatype Nexus for artifacts.  
 
-Contribution Workflow
-----------------------
+## Contribution Workflow
 
-To contribute to the project, please follow the "fork and pull request" workflow. Please refrain from pushing directly to the main repository unless you are a maintainer.
+This project follows the "Fork & Pull Request" workflow for contributions. Direct pushes to the main repository are restricted to maintainers only.  
 
-1. Fork the repository from GitHub (https://github.com/OpenCSGs/csghub) to your own GitHub account.
-2. Make the desired changes and improvements in your forked repository.
-3. Create a new branch in your forked repository to accommodate your modifications. It is recommended to base your branch on the `main` branch.
-4. Make the necessary modifications and improvements in your new branch.
-5. Once you have completed your changes, submit a Pull Request (PR) to the `main` branch of the original repository.
-6. Maintainers will review your PR, provide feedback, and engage in discussions.
-7. After necessary modifications and discussions, your PR will be merged into the `main` branch.
+1. Fork this repository (<https://github.com/OpenCSGs/csghub>) to your GitHub account.  
+2. Make changes in your forked repository.  
+3. Create a new branch in your forked repository to save your updates, preferably based on the `main` branch.  
+4. Implement your updates in the new branch.  
+5. Open a Pull Request (PR) targeting the `main` branch of the original repository.  
+6. Work with maintainers through the review process.  
+7. Once approved, your PR will be merged into `main`.  
 
-Make sure your contributions adhere to the following guidelines:
+To ensure high-quality contributions:  
 
-- Maintain consistent code style with the project.
-- New features or improvements should have appropriate tests.
-- Document additions or modifications should be clear and understandable to facilitate usage by other developers.
+- Maintain consistent code style.  
+- Include tests for new features or improvements.  
+- Provide clear, well-written documentation that other developers can easily follow.  
 
-Reporting Issues and Making Suggestions
-----------------------
+## Reporting Issues
 
-If you encounter any issues, have suggestions for improvements, or want to request new features, please report them on our [Issues](https://github.com/OpenCSGs/csghub/issues) page. We regularly review and respond to your feedback.
+Found a bug or have a suggestion? Open an issue on our [Issues](https://github.com/OpenCSGs/csghub/issues) page.  
 
-When reporting issues or making suggestions, please follow these guidelines:
+When creating an issue:  
 
-- Provide as much detail as possible. Clearly describe what is going wrong, how it is failing, and if there are any error messages. A description like "XY doesn't work" is not helpful for troubleshooting. Always include the code you ran and, if possible, extract the relevant parts instead of including the entire script. This helps us reproduce the error.
-- If you need to include long code blocks, logs, or tracebacks, wrap them in `<details>` and `</details>` tags. This collapses the content, making the issue easier to read and follow. Refer to [this link](https://developer.mozilla.org/en/docs/Web/HTML/Element/details) for more information on collapsing content.
+- Be specific about the issue - "XY doesn't work" isn't helpful.  
+- Include minimal code example that demonstrates the issue.  
+- For large code blocks or logs, use `<details>`and `</details>` tags to keep issues readable. Learn more about content collapsing [here](https://developer.mozilla.org/en/docs/Web/HTML/Element/details).  
 
-Issue Labels
-----------------------
+## Issue Labels
 
-For an overview of the labeling system we use to tag issues and pull requests, please refer to [this page](https://github.com/OpenCSGs/csghub/labels).  
+Check our [labels page](https://github.com/OpenCSGs/csghub/labels) to understand how we categorize issues and PRs.  
 
+## Local Development
 
-Local Development
-----------------------
+You can develop CSGHub using either [Docker Compose](https://github.com/OpenCSGs/csghub-installer/blob/main/docker-compose/csghub/README.md) or set up a [Local Environment](https://github.com/OpenCSGs/csghub/blob/main/docs/setup_en.md).  
 
-You can develop CSGHub using [Docker Compose](https://github.com/OpenCSGs/csghub-installer/blob/main/docker-compose/csghub/README.md) or your [local environment](https://github.com/OpenCSGs/csghub/blob/main/docs/setup_en.md).  
-
-Thank you for contributing to the CSGHub project! We look forward to your involvement and suggestions.
+We appreciate your interest in contributing to CSGHub and look forward to your contributions!  
