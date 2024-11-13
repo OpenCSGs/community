@@ -1,59 +1,55 @@
 # OpenCSG Community
 
-Welcome to the OpenCSG community!
+Welcome to the OpenCSG community!  
 
-This is the starting point for becoming a contributor - improving code, improving docs, giving talks, etc.
+Begin your contribution journey here - whether you want to improve code, enhance documentation, or participate in technical discussions.  
 
-- [Introduction](#introduction)
-- [Community meeting](#community-meeting)
-- [How can I help?](#how-can-i-help-)
-- [Questions and issues](#questions-and-issues)
+- [OpenCSG Community](#opencsg-community)
+  - [Introduction](#introduction)
+  - [Community Meeting](#community-meeting)
+  - [How Can I help ?](#how-can-i-help-)
+    - [Become a Contributor](#become-a-contributor)
+  - [Questions and Issues](#questions-and-issues)
 
 ## Introduction
 
-OpenCSG is an open-source and fair initiative established in 2023, dedicated to building an open community for LLMs.
+OpenCSG is an open-source and fair initiative established in 2023, dedicated to building an open community for LLMs.  
 
-OpenCSG stands for Converged resources, Software refined, and Generative LM. The 'C' represents Converged resources, indicating the integration and full utilization of hybrid resources. The 'S' stands for Software refined, signifying software that is refined by large models. The 'G' represents Generative LM, which denotes widespread, inclusive, and democratized generative large models.
+OpenCSG stands for Converged resources, Software refined, and Generative LM. The 'C' represents Converged resources, indicating the integration and full utilization of hybrid resources. The 'S' stands for Software refined, signifying software that is refined by large models. The 'G' represents Generative LM, which denotes widespread, inclusive, and democratized generative large models.  
 
-Visit [OpenCSG website](https://opencsg.com/) for in-depth information.
+Visit [OpenCSG website](https://opencsg.com/) for in-depth information.  
 
-
-## Community meeting
+## Community Meeting
 
 We have public weekly community meetings on Thursdays at 19:00-20:00 (GMT+08:00).
 
-Meeting agendas and notes can be accessed in the [meetings](./meetings).
+Meeting agendas and notes can be found [here](./meetings).
 
-You can access the meeting recordings on [Meeting Records](https://opencsg-china.feishu.cn/drive/folder/GHNafC2melP8k3dxML1c8N7sntc?from=from_copylink) by clicking on the respective date's event details.
+Meeting recordings are available [here](https://opencsg-china.feishu.cn/drive/folder/GHNafC2melP8k3dxML1c8N7sntc?from=from_copylink) - just click on the date you'd like to view.
 
-## How can I help ?
+## How Can I help ?
 
-To get involved in our community you can ask questions, be a part of the conversation, or contribute to OpenCSG's growth.
-We adhere to the principles of openness and open source, making the large model software stack of OpenCSG available to the community. We welcome everyone to use, feedback, and collaborative contribute. Join in!
+Get involved with our community by asking questions, joining discussions, or contributing to OpenCSG's growth.
+Built on open-source principles, OpenCSG's large model software stack is available to the community. We encourage everyone to use our tools, share feedback, and collaborate with us.
 
-### Become a contributor
-1. Familiar youself with the [OpenCSG contribution guideline](./guidelines/CONTRIBUTING_en.md).
-2. The [OpenCSG developer guideline](./guidelines/dev_guide.md) is the starting point for contributors to make code or doc contributions.
-3. Participate in the OpenCSG working group.
+### Become a Contributor
 
-If you're looking for something to do to get your feet wet working on OpenCSG, look for GitHub issues
-marked with the Help Wanted label:
+1. Familiarize youself with the [OpenCSG contributing guide](./guidelines/CONTRIBUTING_en.md).  
+2. Begin with the [OpenCSG development guide](https://github.com/OpenCSGs/csghub/blob/main/docs/setup_en.md) for code or documentation contributions.  
+3. Join the OpenCSG working group.  
 
-- [Primary OpenCSG repository](https://github.com/OpenCSGs/csghub/issues)
+Looking to get your feet wet with OpenCSG? Start by checking out issues labeled "Help Wanted" [here](https://github.com/OpenCSGs/csghub/issues).  
 
-Of course, even if there's not an issue opened for it, you can always do more
-testing throughout the platform. Similarly, you can always contribute more docs, richer docs,
-insightful docs. Or maybe a cool blog post?
+Don't see an issue that interests you? Feel free to explore and test the platform - there's always room for improvement. We also welcome contributions that enhance the documentation with your valuable insights or share your experience through an engaging blog post.  
 
-## Questions and issues
+## Questions and Issues
 
-For bug reports and features requests, please use [OpenCSG issues](https://github.com/OpenCSGs/csghub/issues).
+For support or questions, see the contact information below:  
 
-If you meet any problem during usage, you can contact with us by any following way:
-1. Initiate an issue in [primary OpenCSG repository](https://github.com/OpenCSGs/csghub/issues).
-2. Join our WeChat group by scaning wechat helper qrcode.
-3. Join our official discord channel: [OpenCSG Discord Channel](https://discord.gg/bXnu4C9BkR).
-4. Join our slack workspace:[OpenCSG Slack Channel](https://join.slack.com/t/opencsghq/shared_invite/zt-2fmtem7hs-s_RmMeoOIoF1qzslql2q~A).
+1. Open an issue in the [primary OpenCSG repository](https://github.com/OpenCSGs/csghub/issues).  
+2. Scan the WeChat QR code below to join our WeChat group.  
+3. Join our official Discord channel: [OpenCSG Discord Channel](https://discord.gg/bXnu4C9BkR).  
+4. Join our Slack workspace: [OpenCSG Slack Channel](https://join.slack.com/t/opencsghq/shared_invite/zt-2fmtem7hs-s_RmMeoOIoF1qzslql2q~A).  
 <div style="display:inline-block">
 <img src="./images/wechat-assistant-new.png" width='200'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
