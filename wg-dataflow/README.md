@@ -52,7 +52,7 @@ Join us in shaping the future of data processing - your insights, expertise, and
 
 - [CSGHub Slack](https://join.slack.com/t/opencsghq/shared_invite/zt-2fmtem7hs-s_RmMeoOIoF1qzslql2q~A)
 - [CSGHub GitHub](https://github.com/OpenCSGs/csghub)
-- [OpenCSG Discord Channel](https://discord.gg/bXnu4C9BkR).
+- [OpenCSG Discord Channel](https://discord.gg/bXnu4C9BkR)
 
 ## Resources
 
