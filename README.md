@@ -25,8 +25,6 @@ We have public weekly community meetings on Thursdays at 19:00-20:00 (GMT+08:00)
 
 Meeting agendas and notes can be found [here](./meetings).
 
-Meeting recordings are available [here](https://opencsg-china.feishu.cn/drive/folder/GHNafC2melP8k3dxML1c8N7sntc?from=from_copylink) - just click on the date you'd like to view.
-
 ## How Can I help ?
 
 Get involved with our community by asking questions, joining discussions, or contributing to OpenCSG's growth.
